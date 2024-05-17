@@ -60,4 +60,4 @@ jobs:
         name: aseprite
         path: |
           /Users/wang/Downloads/aseprite/build/bin/data
-          /Users/wang/Downloads/aseprite/build/bin/aseprite.exe
+          /Users/wang/Downloads/aseprite/build/bin/aseprite.app
